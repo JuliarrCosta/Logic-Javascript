@@ -1,4 +1,4 @@
-class Turma extends Aluno{
+class Turma{
     #id;
     
     constructor(id){
